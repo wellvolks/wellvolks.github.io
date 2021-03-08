@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div id="post-content">
+{{ content }}
+</div>
+
+<!-- TODO - decidir se coloca ou nao informação sobre autor..
+{% assign author = site.authors[page.author] %}
+<small>This post was brought to you today by:</small>
+<div class="post">
+  <div class="meta">
+    <img src="http://www.gravatar.com/avatar/{{ author.gravatar }}?s=40">
+    <span class="author">{{ author.display_name }}</span>
+  </div>
+-->
+
+  <p class='gh-edit'>
+    <a href="//github.com/{{ site.github_username }}/{{ site.github_username }}.github.io/blob/master/{{ page.path }}" target="_blank"><i class="icon-github"></i>&nbsp;Edit this post on GitHub</a>
+  </p>
+
+{% include disqus.html%}
+<div id="post-nav" class="clearfix">
+  {% if page.previous.url %}
+  <a rel="previous" id="previous_link" href="{{ site.baseurl }}{{page.previous.url}}">{{ site.baseurl }}{{page.previous.title}}</a>
+  {% endif %}
+  {% if page.next.url %}
+  <a rel="next" id="next_link" href="{{ site.baseurl }}{{page.next.url}}">{{ site.baseurl }}{{page.next.title}} &raquo;</a>
+  {% endif %}
+</div>

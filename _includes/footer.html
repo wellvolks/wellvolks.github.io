@@ -1,0 +1,18 @@
+<footer>
+  <ul class="social">
+  {% if site.facebook_username %}<li><a href="http://facebook.com/{{ site.facebook_username }}"><span class="icon-facebook2"></span></a></li>{% endif %}
+  {% if site.twitter_username %}<li><a href="http://twitter.com/{{ site.twitter_username }}"><span class="icon-twitter"></span></a></li>{% endif %}
+  {% if site.github_username %}<li><a href="http://github.com/{{ site.github_username }}"><span class="icon-github"></span></a></li>{% endif %}
+  {% if site.instagram_username %}<li><a href="http://instagram.com/{{ site.instagram_username }}"><span class="icon-instagram"></span></a></li>{% endif %}
+  {% if site.email %}<li><a href="mailto:{{ site.email }}"><span class="icon-drafts"></span></a></li>{% endif %}
+  </ul>
+  <p>{{ site.footer_text }}</p>
+</footer>
+
+</div> <!-- End content wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-viewport-checker/1.8.8/jquery.viewportchecker.min.js"></script>
+<script src="{{ site.baseurl}}/_assets/js/main.js"></script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
