@@ -1,1 +1,66 @@
+# Site settings
+title: Wellvolks
+email: wellvolksg@hotmail.com
+description: >.
+footer_text: '&copy; 2021 Wellvolks. Made with Jekyll.'
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://wellvolks.github.io" # the base hostname & protocol for your site
+
+# Social usernames
+facebook_username: maratonago
+github_username:  maratonago
+
+# Google Analytics tracking Code
+google_analytics: "G-2GQXTJKQ2H"
+
+# Disqus comments shortname
+disqus:
+    shortname: "wellvolks" #replace with your disqus comment short name
+
+# Site author attribution
+# Theoretically you can have an unlimited number defined.
+# In order to get the ID for your gravitar, login to the gravitar website, click My Gravitars
+# Click view rating then copy the email hash.
+# Be sure to include the appropriate frontmatter in your post to attribute the author
+author_ids: [wellvolks]
+authors:
+  paulocezar:
+    display_name: Welton Cardoso
+    #gravatar:
+    email: wellvolks@hotmail.com
+    #web: http://paulocezar.github.io
+    github: http://github.com/wellvolks
+    #bio:
+    
+# Build settings
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+include: ['_pages', '_assets']
+exculde: ['.sass_cache', 'README.md']
+sass:
+  sass_dir: '_assets/_sass'
+permalink: /:year/:month/:day/:title
+
+plugins:
+  - jekyll-coffeescript
+  - jekyll-gist
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-coffeescript
+  - jekyll-gist
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-redirect-from
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: "_pages"
+    values:
+      is_in_nav: true
+      
 theme: jekyll-theme-cayman
