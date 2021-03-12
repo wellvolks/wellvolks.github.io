@@ -13,7 +13,7 @@ Aconteceu em 6 e 7 de Março de 2021 a 1ª Avaliação Online da Gogeo. A partic
 A prova foi composta por 9 problemas. Os níveis dos problemas e as respectivas técnicas que podem ser usadas para resolvê-los são apresentados na tabela abaixo:
 
 
-| Problema                                                      |   Edição      | Dificuldade   | Técnica relacionada         |
+<!--| Problema                                                      |   Edição      | Dificuldade   | Técnica relacionada         |
 |:------------------------------------------------------------- |:-------------:|--------------------------------------------:|
 |1. - <a href="#digitos_invertidos">Desafio</a>                 | Sáb e Dom     | Fácil         | Ad hoc                      |
 |2. - <a href="#forro_no_cafundo">Forro</a>                     | Dom           | Fácil         | Matemática                  |
@@ -27,6 +27,7 @@ A prova foi composta por 9 problemas. Os níveis dos problemas e as respectivas 
 |10. - <a href="#brincando_com_legos">Brincando com legos</a>   | Sáb e Dom     | Difícil       | BFS ou DFS + Busca binária  |
 |11. - <a href="#em_rede">Em rede</a>                           | Sáb e DOm     | Especialista  | Union Find + Trie           |
 |=====
+-->
 
 
 As explicações dos problemas seguem abaixo:<br>
