@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GoGeo - Avaliação Online"
+title:  "GoGeo - 1ª Avaliação Online"
 tags: [gogeo, problemset, analise]
 categories: analise
 author: wellvolks
