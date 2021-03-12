@@ -11,3 +11,16 @@ Aconteceu em 6 e 7 de Março de 2021 a 1ª Avaliação Online da Gogeo. A partic
 <br>
 
 A prova foi composta por 9 problemas. Os níveis dos problemas e as respectivas técnicas que podem ser usadas para resolvê-los são apresentados na tabela abaixo:
+
+
+
+| Problema                                                      |   Edição      | Dificuldade   | Técnica relacionada         |
+|:------------------------------------------------------------- |:-------------:|--------------------------------------------:|
+|1. - <a href="#digitos_invertidos">Desafio</a>                 | Sáb e Dom     | Fácil         | Ad hoc                      |
+|=====
+
+
+
+As explicações dos problemas seguem abaixo:<br>
+{% include analises/gogeoEd01/digitos_invertidos.md %} <br>
+
