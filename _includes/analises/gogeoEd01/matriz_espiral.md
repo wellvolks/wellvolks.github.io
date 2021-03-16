@@ -11,4 +11,4 @@ Um exemplo de implementação segue abaixo:
 
 {% gist wellvolks/ce6b17fd158911c069bb7c487ed3a377 misael_espiral.cpp %}
 
-[hackerrank-i]: https://www.hackerrank.com/contests/2-competicao-de-programacao-infufg-20182/challenges/matriz-espiral-1
+[hackerrank-i]: https://www.hackerrank.com/contests/gogeo-problemas-ja-utilizados-em-avaliacoes/challenges/matriz-espiral-1
