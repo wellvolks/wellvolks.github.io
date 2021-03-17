@@ -1,4 +1,4 @@
-## 5. - Primos no intervalo
+## 5 - Primos no intervalo
 <div id="primos_no_intervalo"></div>
 
 Autor: <font color = "blue">Welton Cardoso</font>
