@@ -1,4 +1,4 @@
-## 7. - Submatrizes
+## 7 - Submatrizes
 <div id="submatrizes"></div>
 
 Autor: <font color = "blue">Desconhecido</font>
