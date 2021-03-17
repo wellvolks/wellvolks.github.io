@@ -1,4 +1,4 @@
-## 8. - Produto máximo
+## 8 - Produto máximo
 <div id="produto_maximo"></div>
 
 Autor: <font color = "blue">Desconhecido</font>
