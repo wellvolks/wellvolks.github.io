@@ -1,4 +1,4 @@
-## 1. - Dígitos invertidos
+## 1 - Dígitos invertidos
 <div id="digitos_invertidos"></div>
 
 Autor: <font color = "blue">Desconhecido</font>
