@@ -26,14 +26,7 @@ A prova foi composta por 9 problemas. Os níveis dos problemas e as respectivas 
 |9. - <a href="#posicao_na_fila">Posição na fila</a>                       | Sáb e Dom     | Médio         | Ad hoc                      |
 |=====
 
-
 As explicações dos problemas seguem abaixo:<br>
 {% include analises/gogeoEd01/digitos_invertidos.md %} <br>
 {% include analises/gogeoEd01/forro_no_cafundo.md %} <br>
 {% include analises/gogeoEd01/palindromo_interessante.md %} <br>
-{% include analises/gogeoEd01/matriz_espiral.md %} <br>
-{% include analises/gogeoEd01/primos_no_intervalo.md %} <br>
-{% include analises/gogeoEd01/abre_e_fecha.md %} <br>
-{% include analises/gogeoEd01/submatrizes.md %} <br>
-{% include analises/gogeoEd01/produto_maximo.md %} <br>
-{% include analises/gogeoEd01/posicao_na_fila.md %}
