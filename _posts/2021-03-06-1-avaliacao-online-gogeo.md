@@ -28,5 +28,3 @@ A prova foi composta por 9 problemas. Os níveis dos problemas e as respectivas 
 
 As explicações dos problemas seguem abaixo:<br>
 {% include analises/gogeoEd01/digitos_invertidos.md %} <br>
-{% include analises/gogeoEd01/forro_no_cafundo.md %} <br>
-{% include analises/gogeoEd01/palindromo_interessante.md %} <br>
