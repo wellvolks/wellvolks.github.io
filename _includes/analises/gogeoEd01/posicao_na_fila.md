@@ -1,4 +1,4 @@
-## 9. - Posição na fila
+## 9 - Posição na fila
 <div id="posicao_na_fila"></div>
 
 Autor: <font color = "blue">Welton Cardoso</font>
