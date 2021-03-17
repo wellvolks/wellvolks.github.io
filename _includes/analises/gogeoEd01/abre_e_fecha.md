@@ -1,4 +1,4 @@
-## 6. - Abre e fecha
+## 6 - Abre e fecha
 <div id="abre_e_fecha"></div>
 
 Autor: <font color = "blue">Desconhecido</font>
