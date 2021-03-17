@@ -17,7 +17,6 @@ A prova foi composta por 9 problemas. Os níveis dos problemas e as respectivas 
 |:------------------------------------------------------------------------ |:-------------:|--------------------------------------------:|
 |1. - <a href="#digitos_invertidos">Dígitos invertidos</a>                 | Sáb e Dom     | Fácil         | Ad hoc                      |
 |2. - <a href="#forro_no_cafundo">Forró no cafundó</a>                     | Dom           | Fácil         | Matemática                  |
-<!---|3. - <a href="#palindromo_interessante">Palindromo interessante </a>      | Sáb e Dom     | Fácil         | Matemática             |-->
 |4. - <a href="#matriz_espiral">Matriz espiral</a>                         | Dom           | Fácil         | Implementação               |
 |5. - <a href="#primos_no_intervalo">Primos no intervalo</a>               | Sáb           | Fácil         | Matemática                  |
 |6. - <a href="#abre_e_fecha">Abre e fecha</a>                             | Sáb e Dom     | Médio         | Pilha                       |
@@ -29,5 +28,9 @@ A prova foi composta por 9 problemas. Os níveis dos problemas e as respectivas 
 As explicações dos problemas seguem abaixo:<br>
 {% include analises/gogeoEd01/digitos_invertidos.md %} <br>
 {% include analises/gogeoEd01/forro_no_cafundo.md %} <br>
-<!---{% include analises/gogeoEd01/palindromo_interessante.md %} <br>-->
 {% include analises/gogeoEd01/matriz_espiral.md %} <br>
+{% include analises/gogeoEd01/primos_no_intervalo.md %} <br>
+{% include analises/gogeoEd01/abre_e_fecha.md %} <br>
+{% include analises/gogeoEd01/submatrizes.md %} <br>
+{% include analises/gogeoEd01/produto_maximo.md %} <br>
+{% include analises/gogeoEd01/posicao_na_fila.md %}
