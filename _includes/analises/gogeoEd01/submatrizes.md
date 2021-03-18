@@ -21,8 +21,7 @@ Agora, para toda submatriz (**i**,**j**, **k**,**w**), com **i** $\leqslant$ **k
 
 Nota-se que essa submatriz tem o acumulado de duas outras submatrizes, **m'** e **m''**:
 
-<img src="https://github.com/wellvolks/wellvolks.github.io/raw/main/_includes/analises/gogeoEd01/imagens/mat_sub1.png"  width="200" height="200" />
-<img src="https://github.com/wellvolks/wellvolks.github.io/raw/main/_includes/analises/gogeoEd01/imagens/mat_sub2.png"  width="200" height="200" />
+<img src="https://github.com/wellvolks/wellvolks.github.io/raw/main/_includes/analises/gogeoEd01/imagens/mat_mm.png"  width="600" height="200" />
 
 Ao desconsiderar essas duas submatrizes teremos o valor correto para a submatriz que desejamos. No entanto, estaremos subtraindo a submatriz (**1**,**1**, **i-1**,**i-1**) duas vezes. Portanto, para que tenhamos realmente o acumulado correto para a submatriz **m** devemos adicionar o acumulado de **M\[i-1]\[i-1]** na resposta:
 
