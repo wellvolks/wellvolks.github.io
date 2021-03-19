@@ -2,7 +2,7 @@
 layout: page
 title: Sobre
 permalink: /sobre/
-author: paulocezar
+author: wellvolks
 ---
 
 {% include apresentacao.md %}
