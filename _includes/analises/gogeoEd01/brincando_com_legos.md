@@ -17,6 +17,6 @@ Para cada célula da matriz **A** devemos descobrir qual a maior quantidade (ní
 
 Um exemplo de implementação segue abaixo:
 
-{% gist wellvolks/507f5c7c92167262eacad8374b165e3b brincando_com_legos.cpp %}
+{% gist wellvolks/507f5c7c92167262eacad8374b165e3b welton_brincando_com_legos.cpp %}
 
 [hackerrank-i]: https://www.hackerrank.com/contests/gogeo-problemas-ja-utilizados-em-avaliacoes/challenges/brincando-com-lego
