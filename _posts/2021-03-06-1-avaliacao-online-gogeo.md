@@ -37,4 +37,4 @@ As explicações dos problemas seguem abaixo:<br>
 {% include analises/gogeoEd01/produto_maximo.md %} <br>
 {% include analises/gogeoEd01/posicao_na_fila.md %}
 {% include analises/gogeoEd01/brincando_com_legos.md %}
-{% include analises/gogeoEd01/em_rede.md %}-->
+{% include analises/gogeoEd01/em_rede.md %}
