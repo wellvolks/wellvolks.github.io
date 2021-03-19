@@ -24,6 +24,7 @@ A prova foi composta por 9 problemas. Os níveis dos problemas e as respectivas 
 |8. - <a href="#produto_maximo">Produto máximo</a>                         | Sáb e Dom     | Médio         | Programação Dinâmica        |
 |9. - <a href="#posicao_na_fila">Posição na fila</a>                       | Sáb e Dom     | Médio         | Ad hoc                      |
 |10. - <a href="#brincando_com_legos">Brincando com legos</a>              | Sáb e Dom     | Difícil       | BFS ou DFS + Busca binária  |
+|11. - <a href="#em_rede">Em rede</a>                                      | Sáb e DOm     | Especialista  | Union Find + Trie           |
 |=====
 
 As explicações dos problemas seguem abaixo:<br>
@@ -36,3 +37,4 @@ As explicações dos problemas seguem abaixo:<br>
 {% include analises/gogeoEd01/produto_maximo.md %} <br>
 {% include analises/gogeoEd01/posicao_na_fila.md %}
 {% include analises/gogeoEd01/brincando_com_legos.md %}
+{% include analises/gogeoEd01/em_rede.md %}-->
