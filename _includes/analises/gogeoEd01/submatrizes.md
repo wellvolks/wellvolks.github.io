@@ -15,7 +15,7 @@ Para cada posição **i**,**j** de **M**, com **i** ⩽ **L** e **j** ⩽ **C**,
 <img src="https://github.com/wellvolks/wellvolks.github.io/raw/main/_includes/analises/gogeoEd01/imagens/mat_pre2.png" width="200" height="200" />
 <img src="https://github.com/wellvolks/wellvolks.github.io/raw/main/_includes/analises/gogeoEd01/imagens/mat_pre3.png" width="200" height="200" />
 
-Agora, para toda submatriz (**i**,**j**, **k**,**w**), com **i** $\leqslant$ **k** e **j** $\leqslant$ **w**, pode-se encontrar a soma dos valores dessa submatriz em **O(1)**. A célula **M\[k]\[w]**, como definido anteriormente, terá a soma de todas as células da submatriz (**1**,**1**, **k**, **w**), no entanto, devemos olhar todas as submatrizes. Dessa forma, precisamos descobrir o acumulado para uma submatriz generica (**i**,**j**, **k**,**w**). Suponha a seguinte submatriz **m** de **M**:
+Agora, para toda submatriz (**i**,**j**, **k**,**w**), com **i** ⩽ **k** e **j** ⩽ **w**, pode-se encontrar a soma dos valores dessa submatriz em **O(1)**. A célula **M\[k]\[w]**, como definido anteriormente, terá a soma de todas as células da submatriz (**1**,**1**, **k**, **w**), no entanto, devemos olhar todas as submatrizes. Dessa forma, precisamos descobrir o acumulado para uma submatriz generica (**i**,**j**, **k**,**w**). Suponha a seguinte submatriz **m** de **M**:
 
 <img src="https://github.com/wellvolks/wellvolks.github.io/raw/main/_includes/analises/gogeoEd01/imagens/mat_sub.png"  width="200" height="200" />
 
